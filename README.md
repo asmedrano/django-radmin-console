@@ -1,5 +1,10 @@
 # Radmin the totally rad django admin console.
 
+
+##UPDATE:
+I recommend you use https://docs.djangoproject.com/en/dev/ref/contrib/admin/actions/
+Instead of this package! This is a silly experiment.
+
 ## Install & Config
 Make sure the ```django.template.loaders.app_directories.Loader``` is enabled
 
